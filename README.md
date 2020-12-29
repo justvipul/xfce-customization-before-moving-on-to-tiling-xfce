@@ -34,6 +34,7 @@ xfce customization by a friend of mine, its a long video though ;p
 https://www.youtube.com/watch?v=eQQ0d57iVnU
 
 
+## not completely necessary. 
 
 I have included  starship.rs prompt's config file aka starship.toml.
 to install starship prompt,type in terminal
