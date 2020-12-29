@@ -27,10 +27,12 @@ cursors and icons
 a complete tutorial to customise xfce in a specific way
 https://www.youtube.com/watch?v=oQ8RWtD3MTQ
  
-xfce customization by a frien of mine, its a long video though ;p
+xfce customization by a friend of mine, its a long video though ;p
 https://www.youtube.com/watch?v=eQQ0d57iVnU
-the terminal i prefer is xfce4-terminal.
-i have included files for terminal aesthetics, namely panes ascii art and starship.rs prompt.
+
+
+
+i have included  starship.rs prompt's config file aka starship.toml.
 to install starship prompt,type in terminal
 ```
 sudo apt update && sudo apt upgrade
