@@ -58,6 +58,9 @@ copy this line to your .bashrc file which is a text file in your home directory.
 eval "$(starship init bash)"
 
 ```
+```
+source ~/.bashrc
+```
 then copy the starship.toml file in `.config` directory
 ```
 
