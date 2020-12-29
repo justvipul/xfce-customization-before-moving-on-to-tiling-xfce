@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=eQQ0d57iVnU
 
 
 
-i have included  starship.rs prompt's config file aka starship.toml.
+I have included  starship.rs prompt's config file aka starship.toml.
 to install starship prompt,type in terminal
 ```
 sudo apt update && sudo apt upgrade
@@ -54,7 +54,7 @@ copy this line to your .bashrc file which is a text file in your home directory.
 eval "$(starship init bash)"
 
 ```
-then copy the starship.toml file in `.config` folder
+then copy the starship.toml file in `.config` directory
 ```
 
 
