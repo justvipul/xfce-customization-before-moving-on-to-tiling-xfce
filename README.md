@@ -18,8 +18,7 @@ gtk3 themes and window manager themes
 [another gaps theme](https://www.xfce-look.org/p/1230476/) | 
 
 cursors and icons
-
-[vimix cursors](https://www.xfce-look.org/p/1358330/) |  
+[vimix cursors](https://www.xfce-look.org/p/1358330/) | 
 [Capitaine Cursors ](https://www.xfce-look.org/p/1148692/) | 
 [Flatery ](https://www.xfce-look.org/s/XFCE/p/1332404) | 
 [Qogir icon theme ](https://www.xfce-look.org/s/XFCE/p/1296407)| 
