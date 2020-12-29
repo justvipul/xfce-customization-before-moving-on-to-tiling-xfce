@@ -7,7 +7,7 @@ make two folders in home directory
 mkdir ~/.icons ~/.themes
 ```
 add your favourite gtk themes and window manager to .themes folders
-and add your favourite icons and cursos icons to .icons folder.
+and add your favourite icons and cursor's icons to .icons folder.
 
 some useful links for theme content install any one of cursor, gtk and icon theme atleast
 gtk3 themes and window manager themes
