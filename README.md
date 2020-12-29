@@ -9,9 +9,9 @@ and add your favourite icons and cursos icons to .icons folder.
 some useful links for theme content install any one of cursor, gtk and icon theme atleast
 gtk3 themes and window manager themes
 
-(https://www.xfce-look.org/p/1299514/)
-(https://www.xfce-look.org/p/1275087/)
-(https://www.xfce-look.org/p/1267246/)
+[ Yaru-Colors ](https://www.xfce-look.org/p/1299514/)
+[McMojave](https://www.xfce-look.org/p/1275087/)
+[](https://www.xfce-look.org/p/1267246/)
 (https://github.com/addy-dclxvi/xfwm4-theme-collections)
 (https://github.com/vinceliuice/Orchis-theme)
 (https://www.xfce-look.org/p/1174081/)
