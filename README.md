@@ -6,11 +6,16 @@ make two folders in home directory
 ```
 mkdir ~/.icons ~/.themes
 ```
+#### however, a small note,
+if you want the themes and icons to apply everywhere in the system. to every application that requires root privilage then you should copy themes and icons respectively to 
+`/usr/share/themes and /usr/share/icons`.
+#### ok then,
 add your favourite gtk themes and window manager to .themes folders
 and add your favourite icons and cursor's icons to .icons folder.
 
 some useful links for theme content install any one of cursor, gtk and icon theme atleast
-gtk3 themes and window manager themes
+
+## gtk3 themes and window manager themes
 
 [ Yaru-Colors ](https://www.xfce-look.org/p/1299514/) | 
 [McMojave](https://www.xfce-look.org/p/1275087/) | 
@@ -20,18 +25,24 @@ gtk3 themes and window manager themes
 [gaps xfwm themes](https://www.xfce-look.org/p/1174081/) | 
 [another gaps theme](https://www.xfce-look.org/p/1230476/) | 
 
-cursors and icons
+## cursors and icons
 [vimix cursors](https://www.xfce-look.org/p/1358330/) | 
 [Capitaine Cursors ](https://www.xfce-look.org/p/1148692/) | 
 [Flatery ](https://www.xfce-look.org/s/XFCE/p/1332404) | 
 [Qogir icon theme ](https://www.xfce-look.org/s/XFCE/p/1296407)| 
 [Papirus](https://www.xfce-look.org/s/XFCE/p/1166289) | 
  
-a complete tutorial to customise xfce in a specific way
+### a complete tutorial to customise xfce in a specific way
 https://www.youtube.com/watch?v=oQ8RWtD3MTQ
  
-xfce customization by a friend of mine, its a long video though ;p
+### xfce customization by a friend of mine, its a long video though ;p
 https://www.youtube.com/watch?v=eQQ0d57iVnU
+
+## question 1. how do i get the dope shadows below the panel?
+i use compton for that. get shadows for docks as true and shadow radius more than 10 and shadow opacity as whatever you want. i have added my compton.conf for reference. 
+#### you have to disable xfwm compositor 
+
+## question 2. how do i make 
 
 
 ## not completely necessary. 
@@ -42,7 +53,7 @@ to install starship prompt,type in terminal
 sudo apt update && sudo apt upgrade
 ```
 ```
-sudo apt install aptitude tasksel
+sudo apt install aptitude tasksel curl
 ```
 ```
 sudo aptitude install  fonts-noto-color-emoji fonts-symbola ttf-ancient-fonts-symbola fonts-powerline 
