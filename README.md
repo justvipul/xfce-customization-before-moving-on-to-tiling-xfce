@@ -41,8 +41,12 @@ https://www.youtube.com/watch?v=eQQ0d57iVnU
 ## question 1. how do i get the dope shadows below the panel?
 i use compton for that. get shadows for docks as true and shadow radius more than 10 and shadow opacity as whatever you want. i have added my compton.conf for reference. 
 #### you have to disable xfwm compositor 
+![disabled_compositor](/uploads/47bd9325964827642c83f582ab6d526f/disabled_compositor.png)
+## question 2. how do i make compton work like normal?
+add 
+`bash -c "sleep 5; exec compton -b"`
+#### **note: if you want fading with compton use `bash -c "sleep 5; exec compton -b -f"` instead. and if you want blur use this fork of compton made by an awesome guy, [ComptonWithCapitalC](https://github.com/Aeres-u99/ComptonWithCapitalC)
 
-## question 2. how do i make 
 
 
 ## not completely necessary. 
