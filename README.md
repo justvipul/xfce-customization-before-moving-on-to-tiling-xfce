@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=eQQ0d57iVnU
 ## question 1. how do i get the dope shadows below the panel?
 i use compton for that. get shadows for docks as true and shadow radius more than 10 and shadow opacity as whatever you want. i have added my compton.conf for reference. 
 #### you have to disable xfwm compositor 
-![disabled_compositor](/uploads/6116c373c5b64d409fe3e5bfdea5696d/disabled_compositor.png)
+![disabled_compositor](disabled_compositor.png)
 
 ## question 2. how do i make compton work like normal?
 add 
