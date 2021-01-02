@@ -47,7 +47,7 @@ i use compton for that. get shadows for docks as true and shadow radius more tha
 add 
 `bash -c "sleep 5; exec compton -b"` to your session and startup,
 ![Screenshot_2021-01-02_09-11-26](/uploads/4968f3a3a1c5eeea12b3c2c27a1ab62c/Screenshot_2021-01-02_09-11-26.png)
-#### **note: if you want fading with compton use `bash -c "sleep 5; exec compton -b -f"` instead. and if you want blur use this fork of compton made by an awesome guy, [ComptonWithCapitalC](https://github.com/Aeres-u99/ComptonWithCapitalC)
+#### **note: if you want fading with compton use `bash -c "sleep 5; exec compton -b -f"` instead. and if you want blur use this fork of compton made by an awesome guy, [ComptonWithCapitalC](https://github.com/Aeres-u99/ComptonWithCapitalC)**
 
 
 
