@@ -86,7 +86,7 @@ then copy the starship.toml file in `.config` directory
 
 ## my xfce rice looks like this, 
 
-![xfce-after-customization](/uploads/f47fd9005004b8a49d05198b8a4ef331/xfce-after-customization.png)
+![xfce-after-customization](/wallpaper/xfce_rice.png)
 
 
 
