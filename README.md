@@ -50,6 +50,9 @@ add
 #### **note: if you want fading with compton use `bash -c "sleep 5; exec compton -b -f"` instead. and if you want blur use this fork of compton made by an awesome guy, [ComptonWithCapitalC](https://github.com/Aeres-u99/ComptonWithCapitalC)**
 
 
+### 100+ Color Schemes For Ubuntu, Linux Mint, Elementary OS,arch,based,void,mx,solus,ahh whatever and all distributions that use Gnome Terminal, Pantheon Terminal, Tilix, or XFCE4 Terminal; initially inspired by Elementary OS Luna. Also works on iTerm for macOS.
+## [awesome terminal colorschemes](https://mayccoll.github.io/Gogh/)
+
 
 ## not completely necessary. 
 
